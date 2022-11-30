@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**SametErdogan67/SametErdogan67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Samet Erdoğan
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/samet-erdogan-84a16a17a/">
+  <img align="left" alt="Samet Erdoğan's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am a Full-Stack Developer student on Clarusway.
+
+I want to be Blockchain Developer
+
+### Languages and Tools:
+
+
+[<code>
+<img alt="github" width="26px" src="https://img.icons8.com/color/48/000000/git.png">
+</code>](https://github.com/)
+[<code>
+<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
+</code>](https://www.kernel.org/)
+<br />
+<br> <br>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)]([link](https://github.com/SametErdogan67))
+
+
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=SametErdogan67&show_icons=true&theme=radical)
+
+
