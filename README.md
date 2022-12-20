@@ -2,6 +2,10 @@
 
 I am Samet Erdoğan
 
+- 🔭 I’m currently working on **Full Stack Developer Course** 
+-  🌱 I’m currently learning **JavaScript, React, HTML and CSS** 
+-   📫 How to reach me **samedi6774@gmail.com**
+
 <a href="https://www.linkedin.com/in/samet-erdogan-84a16a17a/">
   <img align="left" alt="Samet Erdoğan's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
