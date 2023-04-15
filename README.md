@@ -14,3 +14,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/samet-erdogan-84a16a17a/](https://www.linkedin.com/in/samet-erdogan-84a16a17a/)
 
 - ⚡ Fun fact : **Most programmers love caffeine while coding, using 2-6 cups per day!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/samet-erdogan-84a16a17a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omer-yilldirim/" height="30" width="40" /></a>
+
+ ![My Codewarrior Profile Badge](https://www.codewars.com/users/omeryilldirim/badges/large)
