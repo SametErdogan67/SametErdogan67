@@ -30,3 +30,10 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omeryilldirim&show_icons=true&locale=en" alt="omeryilldirim" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SametErdogan67&" alt="SametErdogan67" /></p>
+
+## My projects
+  Project Name       |Libraries and Technologies I use     |How does my project look   
+:-------------------------|-------------------------|-------------------------
+[Military Jets](https://military-jets-react.netlify.app//)| React | ![military-jets-react1](https://user-images.githubusercontent.com/81565863/233971137-2ca6239e-149d-4fc1-97bf-f301070b588f.gif)
+
+
