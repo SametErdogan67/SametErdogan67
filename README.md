@@ -36,6 +36,8 @@
 :-------------------------|-------------------------|-------------------------
 [Military Jets](https://military-jets-react.netlify.app//)| React | ![military-jets-react1](https://user-images.githubusercontent.com/81565863/233971137-2ca6239e-149d-4fc1-97bf-f301070b588f.gif)
 [Karadeniz Tour Guide](https://tour-project-tau.vercel.app/))| React | ![karadeniz-tour-guide-react](https://user-images.githubusercontent.com/81565863/233977378-fb266b5b-a653-49cf-acca-7e0faa268621.gif)
+[Nba Legends](https://nbalegends-react.netlify.app//))| React | ![nbalegends-react](![nba-legends-react](https://github.com/SametErdogan67/SametErdogan67/assets/81565863/947cfa0d-6f90-4650-9c2d-48285d6ea49b)
+)
 
 
 
