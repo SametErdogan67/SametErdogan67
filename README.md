@@ -38,7 +38,7 @@
 [Karadeniz Tour Guide](https://tour-project-tau.vercel.app/)| React | ![karadeniz-tour-guide-react](https://user-images.githubusercontent.com/81565863/233977378-fb266b5b-a653-49cf-acca-7e0faa268621.gif)
 [Nba Stars](https://nba-stars.vercel.app/)| React | ![nbastars-react](https://github.com/SametErdogan67/nba-stars/blob/main/nbaStars-react.gif)
 Horoscope Project| React | ![horoscope-react](https://github.com/SametErdogan67/horoscope-react-sass/blob/main/horoscope-react.gif)
-Interview Accord Project(https://interview-accordion.vercel.app/)| React | ![interview-accord](https://github.com/SametErdogan67/interview-app/blob/main/interview-app-react.gif)
+[Interview Accord Project](https://interview-accordion.vercel.app/)| React | ![interview-accord](https://github.com/SametErdogan67/interview-app/blob/main/interview-app-react.gif)
 
 
 
