@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Samet Erdoğan</h1>
 <h3 align="center">Fullstack Developer...</h3>
 
-![snake gif](https://github.com/{{$SametErdogan67}}/{{$SametErdogan67}}/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/{{SametErdogan67}}/{{SametErdogan67}}/blob/output/github-contribution-grid-snake.svg)
 
  🔭 I’m currently in **a fullstack bootcamp**
 
