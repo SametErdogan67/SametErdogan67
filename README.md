@@ -34,10 +34,10 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Military Jets](https://military-jets-react.netlify.app//)| React | ![military-jets-react1](https://user-images.githubusercontent.com/81565863/233971137-2ca6239e-149d-4fc1-97bf-f301070b588f.gif)
-[Karadeniz Tour Guide](https://tour-project-tau.vercel.app/)| React | ![karadeniz-tour-guide-react](https://user-images.githubusercontent.com/81565863/233977378-fb266b5b-a653-49cf-acca-7e0faa268621.gif)
-[Nba Stars](https://nba-stars.vercel.app/)| React | ![nbastars-react](https://github.com/SametErdogan67/nba-stars/blob/main/nbaStars-react.gif)
-Horoscope Project| React | ![horoscope-react](https://github.com/SametErdogan67/horoscope-react-sass/blob/main/horoscope-react.gif)
+[Military Jets](https://military-jets-react.netlify.app//)| React [Click to see repo](https://github.com/SametErdogan67/military-jets)| ![military-jets-react1](https://user-images.githubusercontent.com/81565863/233971137-2ca6239e-149d-4fc1-97bf-f301070b588f.gif)
+[Karadeniz Tour Guide](https://tour-project-tau.vercel.app/)| React [Click to see repo](https://github.com/SametErdogan67/tour-project)| ![karadeniz-tour-guide-react](https://user-images.githubusercontent.com/81565863/233977378-fb266b5b-a653-49cf-acca-7e0faa268621.gif)
+[Nba Stars](https://nba-stars.vercel.app/)| React [Click to see repo](https://github.com/SametErdogan67/nba-stars) | ![nbastars-react](https://github.com/SametErdogan67/nba-stars/blob/main/nbaStars-react.gif)
+Horoscope Project| React [Click to see repo](https://github.com/SametErdogan67/horoscope-react-sass)| ![horoscope-react](https://github.com/SametErdogan67/horoscope-react-sass/blob/main/horoscope-react.gif)
 [Interview Accord Project](https://interview-accordion.vercel.app/)| React, MockApi [Click to see repo](https://github.com/SametErdogan67/interview-app) | ![interview-accord](https://github.com/SametErdogan67/interview-app/blob/main/interview-app-react.gif)
 [Appointment Project](https://appointment-project.vercel.app/)| CSS, React [Click to see repo](https://github.com/SametErdogan67/appointment-project) | ![appointment-project](https://github.com/SametErdogan67/appointment-project/blob/main/appointment-project-react.gif)
 [Styled Component React](https://styledcomponent-react.vercel.app/)| React, Styled Component [Click to see repo](https://github.com/SametErdogan67/styledcomponent-react) | ![styled-component-react](https://github.com/SametErdogan67/styledcomponent-react/blob/main/styled-component-react.gif)
