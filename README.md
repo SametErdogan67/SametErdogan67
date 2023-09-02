@@ -38,8 +38,8 @@
 [Karadeniz Tour Guide](https://tour-project-tau.vercel.app/)| React | ![karadeniz-tour-guide-react](https://user-images.githubusercontent.com/81565863/233977378-fb266b5b-a653-49cf-acca-7e0faa268621.gif)
 [Nba Stars](https://nba-stars.vercel.app/)| React | ![nbastars-react](https://github.com/SametErdogan67/nba-stars/blob/main/nbaStars-react.gif)
 Horoscope Project| React | ![horoscope-react](https://github.com/SametErdogan67/horoscope-react-sass/blob/main/horoscope-react.gif)
-[Interview Accord Project](https://interview-accordion.vercel.app/)| React, MockApi | ![interview-accord](https://github.com/SametErdogan67/interview-app/blob/main/interview-app-react.gif)
-[Appointment Project](https://appointment-project.vercel.app/)| CSS, React | ![appointment-project](https://github.com/SametErdogan67/appointment-project/blob/main/appointment-project-react.gif)
+[Interview Accord Project](https://interview-accordion.vercel.app/)| React, MockApi [Click to see repo](https://github.com/SametErdogan67/interview-app) | ![interview-accord](https://github.com/SametErdogan67/interview-app/blob/main/interview-app-react.gif)
+[Appointment Project](https://appointment-project.vercel.app/)| CSS, React [Click to see repo](https://github.com/SametErdogan67/appointment-project) | ![appointment-project](https://github.com/SametErdogan67/appointment-project/blob/main/appointment-project-react.gif)
 [Styled Component React](https://styledcomponent-react.vercel.app/)| React, Styled Component [Click to see repo](https://github.com/SametErdogan67/styledcomponent-react) | ![styled-component-react](https://github.com/SametErdogan67/styledcomponent-react/blob/main/styled-component-react.gif)
 [Checkout Router with Axios](https://checkout-router-react.vercel.app/)| Bootstrap, ReactJS, Router, Axios [Click to see repo](https://github.com/SametErdogan67/checkout-router-react) | ![styled-component-react](https://github.com/SametErdogan67/checkout-router-react/blob/main/checkout-router-react.gif)
 
