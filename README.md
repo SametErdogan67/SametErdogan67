@@ -41,6 +41,6 @@ Horoscope Project| React | ![horoscope-react](https://github.com/SametErdogan67/
 [Interview Accord Project](https://interview-accordion.vercel.app/)| React | ![interview-accord](https://github.com/SametErdogan67/interview-app/blob/main/interview-app-react.gif)
 [Appointment Project](https://appointment-project.vercel.app/)| React | ![appointment-project](https://github.com/SametErdogan67/appointment-project/blob/main/appointment-project-react.gif)
 [Styled Component React](https://styledcomponent-react.vercel.app/)| React | ![styled-component-react](https://github.com/SametErdogan67/styledcomponent-react/blob/main/styled-component-react.gif)
-[Checkout Router with Axios](https://checkout-router-react.vercel.app/)| Bootstrap, ReactJS, Router, Axios  [Click to see repo] (https://github.com/SametErdogan67/checkout-router-react) | ![styled-component-react](https://github.com/SametErdogan67/checkout-router-react/blob/main/checkout-router-react.gif)
+[Checkout Router with Axios](https://checkout-router-react.vercel.app/)| Bootstrap, ReactJS, Router, Axios [Click to see repo](https://github.com/SametErdogan67/checkout-router-react) | ![styled-component-react](https://github.com/SametErdogan67/checkout-router-react/blob/main/checkout-router-react.gif)
 
 
